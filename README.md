@@ -15,6 +15,7 @@
 ## Current Projects
 
 - :eye: **[gccli](https://github.com/bpauli/gccli)** - Fast, script-friendly CLI for Garmin Connect. Activities, health, workouts, body composition, devices, gear, goals, badges, and more. ([gccli.sh](https://gccli.sh))
+- :whale: **[devcontainer-aem](https://github.com/bpauli/devcontainer-aem)** - Docker-based local AEM development environment.
 
 ## Open Source Contributions
 
