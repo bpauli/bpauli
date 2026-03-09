@@ -16,7 +16,7 @@
 ## Current Projects
 
 - :eye: **[gccli](https://github.com/bpauli/gccli)** - Fast, script-friendly CLI for Garmin Connect. Activities, health, workouts, body composition, devices, gear, goals, badges, and more. ([gccli.sh](https://gccli.sh))
-- :arrows_counterclockwise: **[obsync](https://github.com/bpauli/obsync)** - Obsidian Sync CLI for headless Linux servers. Bidirectional real-time sync with E2E encryption and systemd integration.
+- :arrows_counterclockwise: **[obsync](https://github.com/bpauli/obsync)** - CLI for syncing Obsidian vaults on headless servers. Full E2E encryption, real-time watch mode, hooks for custom scripts on sync events.
 - :whale: **[devcontainer-aem](https://github.com/bpauli/devcontainer-aem)** - Docker-based local AEM development environment.
 
 ## Open Source Contributions
