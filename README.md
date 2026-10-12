@@ -15,6 +15,7 @@
 
 ## Current Projects
 
+- :cook: **[pi-chef](https://github.com/bpauli/pi-chef)** - Task coordination for Pi coding agents. Assign tasks to cooks in separate Git worktrees, review results, and manage projects from one kitchen.
 - :eye: **[gccli](https://github.com/bpauli/gccli)** - Fast, script-friendly CLI for Garmin Connect. Activities, health, workouts, body composition, devices, gear, goals, badges, and more. ([gccli.sh](https://gccli.sh))
 - :arrows_counterclockwise: **[obsync](https://github.com/bpauli/obsync)** - CLI for syncing Obsidian vaults on headless servers. Full E2E encryption, real-time watch mode, hooks for custom scripts on sync events.
 - :whale: **[devcontainer-aem](https://github.com/bpauli/devcontainer-aem)** - Docker-based local AEM development environment.
