@@ -17,6 +17,7 @@
 
 - :cook: **[pi-chef](https://github.com/bpauli/pi-chef)** - Task coordination for Pi coding agents. Assign tasks to cooks in separate Git worktrees, review results, and manage projects from one kitchen.
 - :eye: **[gccli](https://github.com/bpauli/gccli)** - Fast, script-friendly CLI for Garmin Connect. Activities, health, workouts, body composition, devices, gear, goals, badges, and more. ([gccli.sh](https://gccli.sh))
+- :bike: **[zwift-bootstrap](https://github.com/bpauli/zwift-bootstrap)** - Unofficial native Linux launcher for Zwift. Installs and updates the game files from the Zwift CDN and starts the game with Wine.
 - :arrows_counterclockwise: **[obsync](https://github.com/bpauli/obsync)** - CLI for syncing Obsidian vaults on headless servers. Full E2E encryption, real-time watch mode, hooks for custom scripts on sync events.
 - :whale: **[devcontainer-aem](https://github.com/bpauli/devcontainer-aem)** - Docker-based local AEM development environment.
 
